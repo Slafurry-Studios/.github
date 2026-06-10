@@ -30,9 +30,7 @@ Open to all — focused on **learning**, **building**, and **having fun together
 ## CONNECT
 
 <p align="left">
-  <a href="https://discord.gg/slafurry"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>
   <a href="https://github.com/Slafurry-Studios"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
-  <a href="https://twitter.com/slafurrystudios"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>
-  <a href="https://linkedin.com/company/slafurrystudios"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
-  <a href="https://slafurrystudios.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
+  <a href="https://www.linkedin.com/company/slafurry-studios/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="https://slafurrystudios.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-ffffff?style=for-the-badge&logo=itch.io&logoColor=000000" /></a>
 </p>

@@ -14,7 +14,7 @@ A community-driven dev team that ships games every jam — from total beginners 
 ## WHO WE ARE
 *"The joke went too far — now we are going professional."*
 
-We run **weekly 7-day game jams** producing open-source, documented prototypes.  
+We run **weekly game jams** producing open-source, documented prototypes.
 Open to all — focused on **learning**, **building**, and **having fun together**.
 
 ---
@@ -24,6 +24,63 @@ Open to all — focused on **learning**, **building**, and **having fun together
 - Keep everything open-source and documented
 - Beginner friendly — no gatekeeping, just making games
 - Balance ambition with what's actually shippable
+
+---
+
+## OUR GAMES
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://github.com/user-attachments/assets/3e0dfe45-b292-4edc-bd2f-63019b1481ec" width="100%" alt="THE PUPPET PIONEER" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><br/>
+      <strong>OMNI-GEAR PROTOCOL</strong><br/>
+      <sub>Physics Platformer</sub><br/>
+      <sub>A high-stakes physics platformer where you sacrifice your own mechanical parts to power a decaying factory — and pray you can get them back.</sub>
+    </td>
+    <td align="center" valign="top"><br/>
+      <strong>DIRECTIVE</strong><br/>
+      <sub>Bullet Hell</sub><br/>
+      <sub>A bullet hell game that explores the fragility of a wrong setup for an AI system. Designed for high-stakes gameplay and player clarity.</sub>
+    </td>
+    <td align="center" valign="top"><br/>
+      <strong>THE PUPPET PIONEER</strong><br/>
+      <sub>2D Rhythm Game</sub><br/>
+      <sub>A 2D rhythm game where you control a puppet by pulling its strings. Designed for high replayability and player engagement.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><br/>
+      <a href="https://github.com/muhammadzaini213/Omni-Gear-Protocol"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
+      <a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
+    </td>
+    <td align="center"><br/>
+      <a href="https://github.com/muhammadzaini213/Directive"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
+      <a href="https://lordzaini.itch.io/directive"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
+    </td>
+    <td align="center"><br/>
+      <a href="https://github.com/muhammadzaini213/The-Puppet-Pioneer"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
+      <a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## TECH STACK
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff)
+![Godot](https://img.shields.io/badge/Godot-000000?style=flat-square&logo=godot-engine&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=ffffff)
+![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=flat-square&logo=aseprite&logoColor=ffffff)
+![Cinemachine](https://img.shields.io/badge/Cinemachine-000000?style=flat-square&logo=unity&logoColor=ffffff)
+![Newtonsoft.Json](https://img.shields.io/badge/Newtonsoft.Json-000000?style=flat-square&logo=json&logoColor=ffffff)
+
+---
+
+## GITHUB STATS
+[![Slafurry's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Slafurry-Studios&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 

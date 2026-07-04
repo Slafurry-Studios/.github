@@ -79,11 +79,6 @@ Open to all — focused on **learning**, **building**, and **having fun together
 
 ---
 
-## GITHUB STATS
-[![Slafurry's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Slafurry-Studios&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
----
-
 ## CONNECT
 
 <p align="left">

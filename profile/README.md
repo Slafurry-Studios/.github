@@ -32,13 +32,13 @@ Open to all — focused on **learning**, **building**, and **having fun together
   <tr>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/directive"><img src="https://github.com/user-attachments/assets/be747fdf-064b-4593-ade5-fdcbd54493eb" width="100%" alt="DIRECTIVE" /></a></td>
     <td align="center" width="33%"><a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://github.com/user-attachments/assets/9669010e-f3c9-44f8-872d-3f85065ca37c" width="100%" alt="OMNI-GEAR PROTOCOL" /></a></td>
-    <td align="center" width="33%"><a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://github.com/user-attachments/assets/3e0dfe45-b292-4edc-bd2f-63019b1481ec" width="100%" alt="THE PUPPET PIONEER" /></a></td>
+    <td align="center" width="33%"><a href="https://lordzaini.itch.io/pandoras-snake"><img src="https://github.com/user-attachments/assets/7029ae91-e8d0-42f5-ba98-6b0c0ba8256d" width="100%" alt="PANDORA SNAKE" /></a></td>
   </tr>
   <tr>
     <td align="center" valign="top"><br/>
       <strong>DIRECTIVE</strong><br/>
       <sub>Bullet Hell</sub><br/>
-      <sub>A bullet hell game that explores the fragility of a wrong setup for an AI system. Designed for high-stakes gameplay and player clarity.</sub>
+      <sub>A bullet hell game that explores the fragility of a wrong setup for an AI system.</sub>
     </td>
     <td align="center" valign="top"><br/>
       <strong>OMNI-GEAR PROTOCOL</strong><br/>
@@ -46,9 +46,9 @@ Open to all — focused on **learning**, **building**, and **having fun together
       <sub>A high-stakes physics platformer where you sacrifice your own mechanical parts to power a decaying factory — and pray you can get them back.</sub>
     </td>
     <td align="center" valign="top"><br/>
-      <strong>THE PUPPET PIONEER</strong><br/>
-      <sub>2D Rhythm Game</sub><br/>
-      <sub>A 2D rhythm game where you control a puppet by pulling its strings. Designed for high replayability and player engagement.</sub>
+      <strong>PANDORA SNAKE</strong><br/>
+      <sub>Project Lead · Programmer</sub><br/>
+      <sub>An absurd action-destruction game for GAMESEED 2026, reimagining classic Snake as a fast-paced arcade experience.</sub>
     </td>
   </tr>
   <tr>
@@ -61,8 +61,8 @@ Open to all — focused on **learning**, **building**, and **having fun together
       <a href="https://lordzaini.itch.io/omni-gear-protocol"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
     </td>
     <td align="center"><br/>
-      <a href="https://github.com/muhammadzaini213/The-Puppet-Pioneer"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
-      <a href="https://lordzaini.itch.io/the-puppet-pioneer"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
+      <a href="https://github.com/Slafurry-Studios/Pandora-Snake"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000" /></a>
+      <a href="https://lordzaini.itch.io/pandoras-snake"><img src="https://img.shields.io/badge/ITCH.IO-000000?style=for-the-badge&logo=itch.io&logoColor=ffffff" /></a>
     </td>
   </tr>
 </table>

@@ -4,7 +4,7 @@ A community-driven dev team that ships games every jam — from total beginners 
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GAME JAM COMMUNITY-ffffff?style=for-the-badge&logo=gamepad&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GAME JAM COMMUNITY-ffffff?style=for-the-badge&logo=github&logoColor=000000" />
   <img src="https://img.shields.io/badge/INDIE DEV TEAM-000000?style=for-the-badge&logo=unity&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/BALIKPAPAN • INDONESIA-ffffff?style=for-the-badge&logo=googlemaps&logoColor=000000" />
 </p>
